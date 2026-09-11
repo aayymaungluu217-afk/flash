@@ -7,7 +7,7 @@ import ddddocr
 import numpy as np
 from datetime import datetime, timedelta, timezone
 
-BOT_TOKEN = ''
+BOT_TOKEN = '8796341140:AAG5YFeC1TbHHZ03B976T7Pl-YnUwl3EyWE'
 GITHUB_TOKEN = ''
 REPO_OWNER = ""
 REPO_NAME = ""
