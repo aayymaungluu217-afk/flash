@@ -8,9 +8,9 @@ import numpy as np
 from datetime import datetime, timedelta, timezone
 
 BOT_TOKEN = '8796341140:AAG5YFeC1TbHHZ03B976T7Pl-YnUwl3EyWE'
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = ''
 REPO_OWNER = "aayymaungluu217-afk"
-REPO_NAME = "flash"
+REPO_NAME = "Bot"
 SUCCESS_CODE = asyncio.Queue()
 bot = AsyncTeleBot(BOT_TOKEN)
 user_data = {}
